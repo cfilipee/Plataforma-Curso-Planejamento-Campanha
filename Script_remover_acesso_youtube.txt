@@ -1,0 +1,19 @@
+<iframe style="position: absolute !important; width: 100% !important; height: 100% !important; z-index: 100" src="https://www.youtube.com/embed/ID-VIDEO?enablejsapi=0&amp;autoplay=0&amp;modestbranding=1&amp;controls=0&amp;showinfo=0&amp;rel=0&amp;hd=1&amp;wmode=transparent&amp;enablejsapi=0" frameborder="0" allowfullscreen=""></iframe> 
+
+Quais parâmetros usar
+rel=0
+Isso mostra apenas vídeos relacionados do  mesmo canal  do vídeo que acabou de ser reproduzido. Caso contrário, o YouTube exibirá qualquer vídeo público relevante no final de seu vídeo.
+controles=0
+Isso oculta os controles na parte inferior do player de vídeo.
+modestbranding=1
+Isso oculta o logotipo do YouTube na barra de controle (que aparecerá na parte inferior do vídeo).
+Observação: se você usar este e controles = 0, ainda verá "YouTube" no canto inferior direito, onde os controles estariam.
+autoplay=1
+Isso iniciará automaticamente a reprodução do vídeo.
+loop=1
+Isso irá reproduzir automaticamente o vídeo assim que terminar.
+  
+Como usar os parâmetros do YouTube
+No YouTube, localize o vídeo que deseja incorporar e copie o código de incorporação fornecido.
+Clique no botão “Compartilhar” e depois em “Incorporar”.
+Copie o código.

@@ -1,0 +1,19 @@
+#pai div{
+    display: none;
+}
+
+/* body{
+    @media (min-width: 576px) { ... }
+    @media (min-width: 768px) { ... }
+    @media (min-width: 992px) { ... }
+    @media (min-width: 1200px) { ... }
+} */
+
+#videos{
+    text-align: center;
+}
+
+body {
+    background-size: cover;
+    background-color: #08558b;
+  }
