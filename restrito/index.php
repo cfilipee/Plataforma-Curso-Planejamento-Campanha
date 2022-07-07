@@ -19,37 +19,68 @@
   </head>
 
   <body>
-    <div class="p-3 mb-2 bg-dark text-white">
-      <div class= "container-fluid">
-      
-          <div class= "row">
-              <div class="col">
-                  <div class="jumbotron">
-                      <h1 class="display-4">Bem vindo</h1>
-                      <p class="lead">Curso Intensivo de Planejamento de Campanha</p>
-                      <hr class="my-4">
-                      <!-- 16:9 aspect ratio -->
-                        <div id="videos" class="embed-responsive embed-responsive-16by9">
-                          <!-- dimensões videos 270 x 150 -->
-                          <!-- width="270" height="150" -->
-                          <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/ZNNwyuxiL2A?enablejsapi=0&amp;autoplay=0&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;hd=1&amp;wmode=transparent&amp;enablejsapi=0" frameborder="0" allowfullscreen="allow"></iframe>
-                            <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/M97JX3fDzNY?enablejsapi=0&amp;autoplay=0&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;hd=1&amp;wmode=transparent&amp;enablejsapi=0" frameborder="0" allowfullscreen="allow"></iframe>
-                              <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/0pBFUxsdABs?enablejsapi=0&amp;autoplay=0&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;hd=1&amp;wmode=transparent&amp;enablejsapi=0" frameborder="0" allowfullscreen="allow"></iframe>
-                                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AuWkmQzmQ0o" title="Como deixar os vídeos responsivos no site" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        </div>
-                      <hr class="my-4">
-                      <p>Encontrou algum problema? Entre em contato conosco pelo WhatsApp.</p>
-                      <p class="lead">
-                      <!-- <a class="btn btn-primary btn-lg" href="formulario.php" role="button">Formulário</a>
-                      <a class="btn btn-primary btn-lg" href="pesquisar.php" role="button">Pesquisar</a> -->
-                      <a class="btn btn-danger btn-lg" href="../logout.php" role="button">Sair</a>
-                      </p>
-                  </div>
-              </div>
-          </div>
-      </div> <!--Fechamento do background preto -->
-    </div>
+      <div class="p-3 mb-2 bg-dark text-white">
+        <div class= "container-fluid">
+        
+            <div class= "row">
+                <div class="col">
+                    <div class="jumbotron">
+                        <h1 class="display-4">Bem vindo</h1>
+                        <p class="lead">Curso Intensivo de Planejamento de Campanha</p>
+                        
+                        <!-- Vídeo 1 -->
+                        <hr class="my-4">
+                        <p class="title-abertura">Abertura</p>
+                        <!-- width="569" height="315" -->
 
+                          <div class="embed">
+                            <iframe src="https://www.youtube-nocookie.com/embed/fg1iPx0gDyU?enablejsapi=0&amp;autoplay=0&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;hd=1&amp;wmode=transparent&amp;enablejsapi=0" frameborder="0" allowfullscreen="allow"></iframe>                           
+                          </div>
+                              <!-- Vídeo 2 -->
+                           <hr class="my-4">
+                          <p class="title-modulo01">Módulo 1</p>
+
+                          <div class="embed">
+                          <iframe src="https://www.youtube-nocookie.com/embed/iLYgHB1OHiE?enablejsapi=0&amp;autoplay=0&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;hd=1&amp;wmode=transparent&amp;enablejsapi=0" frameborder="0" allowfullscreen="allow"></iframe>
+                          </div>
+
+                          <hr class="my-4">
+                          <p class="title-modulo02">Módulo 2</p>
+
+                          <div class="embed">
+                          <iframe src="https://www.youtube-nocookie.com/embed/faBWZKMTBP0?enablejsapi=0&amp;autoplay=0&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;hd=1&amp;wmode=transparent&amp;enablejsapi=0" frameborder="0" allowfullscreen="allow"></iframe>
+                          </div>
+
+                          <hr class="my-4">
+                          <p class="title-modulo03">Módulo 3</p>
+
+                          <div class="embed">
+                          <iframe src="https://www.youtube-nocookie.com/embed/7uhIaVUmK3E?enablejsapi=0&amp;autoplay=0&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;hd=1&amp;wmode=transparent&amp;enablejsapi=0" frameborder="0" allowfullscreen="allow"></iframe>
+                          </div>
+
+                          <hr class="my-4">
+                          <p class="title-modulo04">Módulo 4</p>
+
+                          <div class="embed">
+                          <iframe src="https://www.youtube-nocookie.com/embed/vwVceIO8Mu4?enablejsapi=0&amp;autoplay=0&amp;modestbranding=1&amp;showinfo=0&amp;rel=0&amp;hd=1&amp;wmode=transparent&amp;enablejsapi=0" frameborder="0" allowfullscreen="allow"></iframe>
+                          </div>
+                          
+
+                          <hr class="my-4">
+                          <div id="footer">                            
+                              <p class="lead">
+                              <!-- <a class="btn btn-primary btn-lg" href="formulario.php" role="button">Formulário</a>
+                              <a class="btn btn-primary btn-lg" href="pesquisar.php" role="button">Pesquisar</a> -->
+                              <a class="btn btn-danger btn-lg" href="../logout.php" role="button">Sair</a>
+                              </p>
+                          </div>
+                          
+                    </div>
+                </div>
+            </div>
+        </div> 
+      </div> <!--Fechamento do background preto -->
+                         
   
 
       <!-- Optional JavaScript; choose one of the two! -->
