@@ -82,7 +82,7 @@ INSERT INTO
 VALUES
     (
         'Caio Filipe',
-        'caiofilipee@gmail.com',
+        'caiofilipe',
         md5(2020)
     );
 
