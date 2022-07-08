@@ -81,8 +81,8 @@ INSERT INTO
     `usuarios`(`nome`, `loginn`, `senha`)
 VALUES
     (
-        'Caio Filipe',
-        'caiofilipe',
+        'Aluno Geral',
+        'PLANEJAMENTO',
         md5(2020)
     );
 

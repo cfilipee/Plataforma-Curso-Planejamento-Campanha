@@ -32,19 +32,22 @@ ob_start();
             <input type="password" name="senha" id="password" placeholder="Digite sua Senha">
             
             <input type="submit" value="Entrar">
-        </form>
-        <div id="social-container">
-            <p>Siga nossas redes sociais</p>
-            <a href="https://www.facebook.com/seuplanejamentoideal" target="_blank"><i class="fa fa-facebook-f"></i></a>
-            <a href="https://www.instagram.com/planejamento.ideal/" target="_blank"><i class="fa fa-instagram"></i></a>
-            <!-- <i class="fas fa-lightbulb"></i> -->
-            <a href="http://wa.me/5561996994077" target="_blank"><i class="fa fa-whatsapp"></i></a>
-            
-            <!-- <i class="fa fa-linkedin"></i> -->
-            
-        </div>
-        <!-- <div id="register-container"> -->
+
+            <div id="social-container">
+              <p>Siga nossas redes sociais</p>
+              <a href="https://www.facebook.com/seuplanejamentoideal" target="_blank"><i class="fa fa-facebook-f"></i></a>
+              <a href="https://www.instagram.com/planejamento.ideal/" target="_blank"><i class="fa fa-instagram"></i></a>
+              <!-- <i class="fas fa-lightbulb"></i> -->
+              <a href="http://wa.me/5561996994077" target="_blank"><i class="fa fa-whatsapp"></i></a>
+              
+              <!-- <i class="fa fa-linkedin"></i> -->           
+            </div>
+
             <a href="http://wa.me/5561996994077" target="_blank" id="forgot-pass">Fale conosco pelo WhatsApp</a>
+        </form>
+        
+        <!-- <div id="register-container"> -->
+            
             <!-- <p>Ainda não tem conta?</p> -->
             <!-- <a href="#">Registrar-se</a> -->
 
