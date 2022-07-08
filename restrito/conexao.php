@@ -1,8 +1,8 @@
 <?php
-    $server = "mysql741.umbler.com:41890";
-    $user = "filipe";
-    $pass = "8143caio";
-    $bd = "empresa";
+    $server = "";
+    $user = "";
+    $pass = "";
+    $bd = "";
 
     // $server = "localhost";
     // $user = "root";
