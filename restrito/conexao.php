@@ -1,12 +1,12 @@
 <?php
     //$server = "";
-getenv(string $server): string;
+$server = getenv("server");
     //$user = "";
-getenv(string $user): string;
+$user = getenv("user");
     //$pass = "";
-getenv(string $pass): string;
+$pass = getenv("pass");
     //$bd = "";
-getenv(string $bd): string;
+$bd = getenv("bd");
 
     // $server = "localhost";
     // $user = "root";
