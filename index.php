@@ -35,8 +35,8 @@ ob_start();
 
             <div id="social-container">
               <p>Siga nossas redes sociais</p>
-              <a href="https://www.facebook.com/seuplanejamentoideal" target="_blank"><i class="fa fa-facebook-f"></i></a>
-              <a href="https://www.instagram.com/planejamento.ideal/" target="_blank"><i class="fa fa-instagram"></i></a>
+              <a href="https://www.facebook.com/dialogoplanejamentoestrategia" target="_blank"><i class="fa fa-facebook-f"></i></a>
+              <a href="https://www.instagram.com/dialogoplanejamento" target="_blank"><i class="fa fa-instagram"></i></a>
               <!-- <i class="fas fa-lightbulb"></i> -->
               <a href="http://wa.me/5561996994077" target="_blank"><i class="fa fa-whatsapp"></i></a>
               

@@ -82,8 +82,8 @@ INSERT INTO
 VALUES
     (
         'Aluno Geral',
-        'PLANEJAMENTO',
-        md5(2020)
+        'PLANEJAMENTODECAMPANHA',
+        md5(1919)
     );
 
 ----
