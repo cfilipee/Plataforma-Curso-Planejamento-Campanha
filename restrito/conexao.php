@@ -1,13 +1,13 @@
 <?php
-    // $server = "mysql741.umbler.com:41890";
-    // $user = "filipe";
-    // $pass = "8143caio";
-    // $bd = "empresa";
-
-    $server = "localhost";
-    $user = "root";
-    $pass = "";
+    $server = "mysql741.umbler.com:41890";
+    $user = "filipe";
+    $pass = "8143caio";
     $bd = "empresa";
+
+    // $server = "localhost";
+    // $user = "root";
+    // $pass = "";
+    // $bd = "empresa";
    
     $conn = mysqli_connect($server, $user, $pass, $bd);
 
