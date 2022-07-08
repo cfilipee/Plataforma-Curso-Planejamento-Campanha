@@ -1,11 +1,11 @@
 <?php
-    $server = "mysql741.umbler.com:41890";
+    $server = "";
 //$server = getenv("server");
-    $user = "filipe";
+    $user = "";
 //$user = getenv("user");
-    $pass = "8143caio";
+    $pass = "";
 //$pass = getenv("pass");
-    $bd = "empresa";
+    $bd = "";
 //$bd = getenv("bd");
 
     // $server = "localhost";
