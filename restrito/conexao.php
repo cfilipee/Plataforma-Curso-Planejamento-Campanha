@@ -1,12 +1,12 @@
 <?php
-    //$server = "";
-$server = getenv("server");
-    //$user = "";
-$user = getenv("user");
-    //$pass = "";
-$pass = getenv("pass");
-    //$bd = "";
-$bd = getenv("bd");
+    $server = "mysql741.umbler.com:41890";
+//$server = getenv("server");
+    $user = "filipe";
+//$user = getenv("user");
+    $pass = "8143caio";
+//$pass = getenv("pass");
+    $bd = "empresa";
+//$bd = getenv("bd");
 
     // $server = "localhost";
     // $user = "root";
